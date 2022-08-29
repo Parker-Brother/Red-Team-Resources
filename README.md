@@ -1,4 +1,4 @@
-A collection of awesome penetration testing resources
+# Red Team/Penetration Testing
 
 - [Online Resources](#online-resources)
   - [Penetration Testing Resources](#penetration-testing-resources)
